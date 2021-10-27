@@ -46,9 +46,13 @@
           <option name="url" value="https://github.com/helium10/app.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/artalar/reatom.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="D:\development\helium" />
+    <option name="cloneParentDir" value="D:\development\personal-projects\react" />
   </component>
   <component name="Vcs.Log.App.Settings">
     <option name="COLUMN_ID_ORDER">
